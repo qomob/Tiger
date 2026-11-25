@@ -155,3 +155,8 @@ flowchart TD
 ## 品牌素材
 
 [封面与 Logo 说明](docs/BRAND_ASSETS.md) · [GitHub 发布手册](docs/RELEASE.md)。
+
+## 社群
+
+<p align="center"><img src="assets/community-qr.png" width="200" alt="SkillBuddy 社群二维码"></p>
+<p align="center"><sub>扫码加入 SkillBuddy 社群</sub></p>

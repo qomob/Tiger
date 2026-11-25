@@ -38,13 +38,13 @@
     },
     {
       "path": "README.en.md",
-      "sha256": "8b5fcd25196d458c27808291f84721a79d7c9aeff1757f32d04d365964bfdb03",
-      "bytes": 4588
+      "sha256": "add473e83273d84586a28a7b6e0c32eba29e06503ae8c761db9c26d20566083c",
+      "bytes": 4779
     },
     {
       "path": "README.md",
-      "sha256": "e583baa2f490a8d9c28e39b118314c233c70c1fcf717f6a139ff0fcd82272cca",
-      "bytes": 9004
+      "sha256": "99ec7687e8da2a9240a8c57eb3b618a1bf465a2a4a338a6cdc50b7eb6b64230a",
+      "bytes": 9183
     },
     {
       "path": "SECURITY.md",
@@ -55,6 +55,11 @@
       "path": "SKILL.md",
       "sha256": "6609a64e5bbbb9700878cc427006fabdebfb99e5d531c99b57c4de07beaeedd2",
       "bytes": 7809
+    },
+    {
+      "path": "assets/community-qr.png",
+      "sha256": "842061474750f6e62584e604a0ac92c660feee00aa72917806f1c34c8ffdde34",
+      "bytes": 117423
     },
     {
       "path": "assets/github-cover.png",

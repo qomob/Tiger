@@ -52,3 +52,8 @@ Source code is released under the [MIT License](LICENSE), copyright QOMOB.AI. Th
 ## Brand assets
 
 [Cover and logo notes](docs/BRAND_ASSETS.md) · [Release guide](docs/RELEASE.md).
+
+## Community
+
+<p align="center"><img src="assets/community-qr.png" width="200" alt="SkillBuddy community QR code"></p>
+<p align="center"><sub>Scan to join the SkillBuddy community</sub></p>
