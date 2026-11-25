@@ -1,0 +1,170 @@
+{
+  "schema": "professional-plan/2",
+  "baseline": "SkillBuddy B v1.1.0 (original WorkBuddy distribution) + A v1.0.0 regression suite; V2.0.0-rc.1",
+  "sources": [
+    {
+      "id": "handbook-derived",
+      "origin": "第18届虎啸奖参赛手册；此处绑定人工转录的派生索引，不是原 PDF",
+      "locator": "印刷页 8–30；原 PDF SHA256 见 rules.json",
+      "edition": "18",
+      "scope": "资格、类别、评分、费用及提报规则；官方在线更新未核验",
+      "file": {
+        "path": "references/source-notes.md",
+        "sha256": "cda2b0663f7b4a115a1d4d28f790a21ca855f4fc6d1711235d9580c80cd2d48a"
+      }
+    }
+  ],
+  "operations": [
+    {
+      "id": "O1",
+      "job": "参赛资格与类别规则",
+      "mode": "rules",
+      "reason": "模型负责开放判断；可机械核验任务交给规则程序",
+      "success": "有效期内商业案例",
+      "failure": "超出日期",
+      "source_ids": [
+        "handbook-derived"
+      ],
+      "cases": [
+        {
+          "id": "C1P",
+          "kind": "positive",
+          "input": "有效期内商业案例",
+          "oracle": "正常输出，保留不确定性"
+        },
+        {
+          "id": "C1A",
+          "kind": "adversarial",
+          "input": "超出日期",
+          "oracle": "拒绝、阻断或明确待核实"
+        }
+      ],
+      "implementation": {
+        "path": "scripts/roar.py",
+        "sha256": "a0225cde97cab13ba35438b2a86c03912f24ce59533b1ececbaad95f6ecd0c13"
+      },
+      "knowledge": {
+        "path": "references/categories.json",
+        "sha256": "15cb255d14c1ba9bf4bf138e07159da32270c5762f65c111ac36188fa68e9d0f"
+      }
+    },
+    {
+      "id": "O2",
+      "job": "工本费计算",
+      "mode": "calculation",
+      "reason": "模型负责开放判断；可机械核验任务交给规则程序",
+      "success": "两项等级奖和一项优秀奖",
+      "failure": "负数费用数量",
+      "source_ids": [
+        "handbook-derived"
+      ],
+      "cases": [
+        {
+          "id": "C2P",
+          "kind": "positive",
+          "input": "两项等级奖和一项优秀奖",
+          "oracle": "正常输出，保留不确定性"
+        },
+        {
+          "id": "C2A",
+          "kind": "adversarial",
+          "input": "负数费用数量",
+          "oracle": "拒绝、阻断或明确待核实"
+        }
+      ],
+      "implementation": {
+        "path": "scripts/roar.py",
+        "sha256": "a0225cde97cab13ba35438b2a86c03912f24ce59533b1ececbaad95f6ecd0c13"
+      },
+      "knowledge": {
+        "path": "references/rules.json",
+        "sha256": "344249da67e3cbf6e4bcda67123419510eb8de90e4cbf9a44fe9b4b87a7141b1"
+      }
+    },
+    {
+      "id": "O3",
+      "job": "证据核验",
+      "mode": "evidence",
+      "reason": "模型负责开放判断；可机械核验任务交给规则程序",
+      "success": "真实原文绑定",
+      "failure": "伪造哈希或未审稿字段",
+      "source_ids": [
+        "handbook-derived"
+      ],
+      "cases": [
+        {
+          "id": "C3P",
+          "kind": "positive",
+          "input": "真实原文绑定",
+          "oracle": "正常输出，保留不确定性"
+        },
+        {
+          "id": "C3A",
+          "kind": "adversarial",
+          "input": "伪造哈希或未审稿字段",
+          "oracle": "拒绝、阻断或明确待核实"
+        }
+      ],
+      "implementation": {
+        "path": "scripts/roar.py",
+        "sha256": "a0225cde97cab13ba35438b2a86c03912f24ce59533b1ececbaad95f6ecd0c13"
+      },
+      "knowledge": {
+        "path": "references/rules.json",
+        "sha256": "344249da67e3cbf6e4bcda67123419510eb8de90e4cbf9a44fe9b4b87a7141b1"
+      }
+    },
+    {
+      "id": "O4",
+      "job": "策略与案例写作",
+      "mode": "model",
+      "reason": "模型负责开放判断；可机械核验任务交给规则程序",
+      "success": "明确事实与反证",
+      "failure": "没有效果证据时不得承诺获奖",
+      "source_ids": [
+        "handbook-derived"
+      ],
+      "cases": [
+        {
+          "id": "C4P",
+          "kind": "positive",
+          "input": "明确事实与反证",
+          "oracle": "正常输出，保留不确定性"
+        },
+        {
+          "id": "C4A",
+          "kind": "adversarial",
+          "input": "没有效果证据时不得承诺获奖",
+          "oracle": "拒绝、阻断或明确待核实"
+        }
+      ]
+    }
+  ],
+  "status": "RC1; real-model and human benchmarking not executed",
+  "additional_assets": [
+    {
+      "path": "references/category-profiles.json",
+      "sha256": "93b3adad3d29f1e1952da4dac3d9907ec0b24b95fb0ffe7e7510e98f40fdda7a"
+    },
+    {
+      "path": "references/benchmark/case-index.json",
+      "sha256": "f7980dbbe69fca2215364f77ba4a631667fcda978baae441cb82ba874e2a1617"
+    },
+    {
+      "path": "scripts/legacy.py",
+      "sha256": "7e777463690b1b1f8e147671e07a572e84ff7be1bc4b8b3278daaa9dc3aece7a"
+    },
+    {
+      "path": "tests/test_v2.py",
+      "sha256": "186007ba10a6a7fd5736d2b31c3c5c919810e97d5380ea33973694e2a56f5e35"
+    },
+    {
+      "path": "evaluation/PROTOCOL.md",
+      "sha256": "32bf00c66ce1ab686f8fb57d7789fcb4423340143561e12397950f3d9707e2c3"
+    },
+    {
+      "path": "ACCEPTANCE.md",
+      "sha256": "46a35f674e3351d08ed5c9272a899f20ae1650637c0904c09ae7f82e2f9dc849"
+    }
+  ]
+}

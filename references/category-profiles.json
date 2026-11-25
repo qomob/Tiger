@@ -1,0 +1,3664 @@
+{
+  "general-01": {
+    "category_id": "general-01",
+    "name": "餐饮门店类",
+    "source": {
+      "printed_page": 15,
+      "pdf_page": 19,
+      "derived_focus": "实体餐饮及连锁终端；无门店不建议",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "广告主行业、作品主体及真实项目身份一致"
+      },
+      {
+        "id": "mechanism",
+        "question": "广告主主体确为实体餐饮或连锁门店；区分包装食品饮料与到店消费"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "general-02": {
+    "category_id": "general-02",
+    "name": "食品类",
+    "source": {
+      "printed_page": 15,
+      "pdf_page": 19,
+      "derived_focus": "食品加工及包装食品",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "广告主行业、作品主体及真实项目身份一致"
+      },
+      {
+        "id": "mechanism",
+        "question": "广告主营为食品加工或包装食品，案例贡献针对食品经营而非餐饮门店"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "general-03": {
+    "category_id": "general-03",
+    "name": "饮料类",
+    "source": {
+      "printed_page": 15,
+      "pdf_page": 19,
+      "derived_focus": "包装饮品；线下咖啡茶饮门店归餐饮",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "广告主行业、作品主体及真实项目身份一致"
+      },
+      {
+        "id": "mechanism",
+        "question": "包装饮品为广告主核心产品；线下茶咖门店比较餐饮类"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "general-04": {
+    "category_id": "general-04",
+    "name": "酒水类",
+    "source": {
+      "printed_page": 15,
+      "pdf_page": 19,
+      "derived_focus": "发酵、蒸馏及配制酒",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "广告主行业、作品主体及真实项目身份一致"
+      },
+      {
+        "id": "mechanism",
+        "question": "酒水产品经营为案例主体；同时核实传播合规"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "general-05": {
+    "category_id": "general-05",
+    "name": "服饰鞋履配饰类",
+    "source": {
+      "printed_page": 15,
+      "pdf_page": 19,
+      "derived_focus": "服装鞋履及配饰",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "广告主行业、作品主体及真实项目身份一致"
+      },
+      {
+        "id": "mechanism",
+        "question": "服装鞋履或配饰业务为主体；不能仅因活动穿搭元素归类"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "general-06": {
+    "category_id": "general-06",
+    "name": "家居日用类",
+    "source": {
+      "printed_page": 15,
+      "pdf_page": 19,
+      "derived_focus": "家居用品与日用消费品",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "广告主行业、作品主体及真实项目身份一致"
+      },
+      {
+        "id": "mechanism",
+        "question": "家居日用产品服务为主体；区分家电和零售平台"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "general-07": {
+    "category_id": "general-07",
+    "name": "家电类",
+    "source": {
+      "printed_page": 15,
+      "pdf_page": 19,
+      "derived_focus": "家庭及类似场景电器",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "广告主行业、作品主体及真实项目身份一致"
+      },
+      {
+        "id": "mechanism",
+        "question": "家庭电器产品为主体；区分电子办公设备"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "general-08": {
+    "category_id": "general-08",
+    "name": "美妆个护类",
+    "source": {
+      "printed_page": 15,
+      "pdf_page": 19,
+      "derived_focus": "美容和个人护理",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "广告主行业、作品主体及真实项目身份一致"
+      },
+      {
+        "id": "mechanism",
+        "question": "美容及个人护理业务为主体；核查功效声明依据"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "general-09": {
+    "category_id": "general-09",
+    "name": "健康保健类",
+    "source": {
+      "printed_page": 15,
+      "pdf_page": 19,
+      "derived_focus": "医药健康、保健及健康器材",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "广告主行业、作品主体及真实项目身份一致"
+      },
+      {
+        "id": "mechanism",
+        "question": "医药健康、保健或健康器材为主体；核查宣传合法性"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "general-10": {
+    "category_id": "general-10",
+    "name": "母婴亲子类",
+    "source": {
+      "printed_page": 15,
+      "pdf_page": 19,
+      "derived_focus": "母婴护理、食品、用品及早教",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "广告主行业、作品主体及真实项目身份一致"
+      },
+      {
+        "id": "mechanism",
+        "question": "母婴相关产品服务为主体；核查受众及安全表述"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "general-11": {
+    "category_id": "general-11",
+    "name": "萌宠类",
+    "source": {
+      "printed_page": 16,
+      "pdf_page": 20,
+      "derived_focus": "宠物产品及服务",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "广告主行业、作品主体及真实项目身份一致"
+      },
+      {
+        "id": "mechanism",
+        "question": "宠物产品服务为主体；区分泛生活零售"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "general-12": {
+    "category_id": "general-12",
+    "name": "银发产品及服务类",
+    "source": {
+      "printed_page": 16,
+      "pdf_page": 20,
+      "derived_focus": "面向老年人的产品服务",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "广告主行业、作品主体及真实项目身份一致"
+      },
+      {
+        "id": "mechanism",
+        "question": "老年人产品服务为主体；不能仅因受众有老人而匹配"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "general-13": {
+    "category_id": "general-13",
+    "name": "零售与生活服务类",
+    "source": {
+      "printed_page": 16,
+      "pdf_page": 20,
+      "derived_focus": "零售及生活服务经营主体",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "广告主行业、作品主体及真实项目身份一致"
+      },
+      {
+        "id": "mechanism",
+        "question": "零售或生活服务经营主体；区分商品品牌与零售渠道"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "general-14": {
+    "category_id": "general-14",
+    "name": "电子产品与设备类",
+    "source": {
+      "printed_page": 16,
+      "pdf_page": 20,
+      "derived_focus": "电子及办公设备",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "广告主行业、作品主体及真实项目身份一致"
+      },
+      {
+        "id": "mechanism",
+        "question": "电子或办公设备业务主体；区分家电和工业技术"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "general-15": {
+    "category_id": "general-15",
+    "name": "科技制造与通信服务类",
+    "source": {
+      "printed_page": 16,
+      "pdf_page": 20,
+      "derived_focus": "工业制造、新能源、通信及B端数字科技",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "广告主行业、作品主体及真实项目身份一致"
+      },
+      {
+        "id": "mechanism",
+        "question": "工业制造、新能源、通信或B端技术业务主体；区分平台应用"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "general-16": {
+    "category_id": "general-16",
+    "name": "平台应用类",
+    "source": {
+      "printed_page": 16,
+      "pdf_page": 20,
+      "derived_focus": "App及网站平台",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "广告主行业、作品主体及真实项目身份一致"
+      },
+      {
+        "id": "mechanism",
+        "question": "App或网站平台为广告主经营主体；不是仅在平台投放"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "general-17": {
+    "category_id": "general-17",
+    "name": "机动车关联市场及交通运输类",
+    "source": {
+      "printed_page": 16,
+      "pdf_page": 20,
+      "derived_focus": "机动车及售后、运输物流",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "广告主行业、作品主体及真实项目身份一致"
+      },
+      {
+        "id": "mechanism",
+        "question": "机动车、售后或运输物流经营主体；区分活动媒介"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "general-18": {
+    "category_id": "general-18",
+    "name": "会展活动赛事类",
+    "source": {
+      "printed_page": 16,
+      "pdf_page": 20,
+      "derived_focus": "会展活动及赛事主办方",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "广告主行业、作品主体及真实项目身份一致"
+      },
+      {
+        "id": "mechanism",
+        "question": "会展或赛事组织者为广告主；区分体育营销手段"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "general-19": {
+    "category_id": "general-19",
+    "name": "文化潮流与娱乐类",
+    "source": {
+      "printed_page": 16,
+      "pdf_page": 20,
+      "derived_focus": "文化潮流娱乐品牌",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "广告主行业、作品主体及真实项目身份一致"
+      },
+      {
+        "id": "mechanism",
+        "question": "文化潮流娱乐品牌为主体；区分娱乐IP传播手段"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "general-20": {
+    "category_id": "general-20",
+    "name": "文旅类",
+    "source": {
+      "printed_page": 16,
+      "pdf_page": 20,
+      "derived_focus": "文化旅游及目的地服务",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "广告主行业、作品主体及真实项目身份一致"
+      },
+      {
+        "id": "mechanism",
+        "question": "文旅目的地或服务经营为主体；区分一般旅行场景"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "general-21": {
+    "category_id": "general-21",
+    "name": "金融保险产品与服务类",
+    "source": {
+      "printed_page": 16,
+      "pdf_page": 20,
+      "derived_focus": "金融保险产品服务",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "广告主行业、作品主体及真实项目身份一致"
+      },
+      {
+        "id": "mechanism",
+        "question": "金融保险产品服务为主体；核查金融宣传合规"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "general-22": {
+    "category_id": "general-22",
+    "name": "政府机构与社会组织类",
+    "source": {
+      "printed_page": 16,
+      "pdf_page": 20,
+      "derived_focus": "政府及公共服务和社会组织",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "广告主行业、作品主体及真实项目身份一致"
+      },
+      {
+        "id": "mechanism",
+        "question": "政府公共服务或社会组织为主体；区分企业公益活动"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "special-01": {
+    "category_id": "special-01",
+    "name": "AI全链路营销类",
+    "source": {
+      "printed_page": 17,
+      "pdf_page": 21,
+      "derived_focus": "AI贯穿洞察、策略、创意、投放、运营、转化及迭代闭环",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "该营销机制是本项目主要贡献而非附带动作"
+      },
+      {
+        "id": "mechanism",
+        "question": "至少多个实际营销环节由AI协同驱动，并有反馈迭代证据；单一素材生成不是全链路"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 10,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 35,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 35,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "special-02": {
+    "category_id": "special-02",
+    "name": "AI智能运营类",
+    "source": {
+      "printed_page": 17,
+      "pdf_page": 21,
+      "derived_focus": "算法优化投放和用户生命周期运营",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "该营销机制是本项目主要贡献而非附带动作"
+      },
+      {
+        "id": "mechanism",
+        "question": "实际智能投放、运营决策或用户生命周期优化，区别固定规则自动化；有优化前后记录"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 10,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 35,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 35,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "special-03": {
+    "category_id": "special-03",
+    "name": "AIGC营销类",
+    "source": {
+      "printed_page": 17,
+      "pdf_page": 21,
+      "derived_focus": "生成式AI驱动营销内容产出与人机协同",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "该营销机制是本项目主要贡献而非附带动作"
+      },
+      {
+        "id": "mechanism",
+        "question": "生成式内容为营销机制的核心贡献，有人机协作及实际应用证据；不是仅润色"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 10,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 35,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 35,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "special-04": {
+    "category_id": "special-04",
+    "name": "AI Agent 营销类",
+    "source": {
+      "printed_page": 17,
+      "pdf_page": 21,
+      "derived_focus": "自主任务规划、决策执行、多轮交互的智能体落地",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "该营销机制是本项目主要贡献而非附带动作"
+      },
+      {
+        "id": "mechanism",
+        "question": "有自主任务规划、决策执行和工具/交互记录；不是静态聊天或固定工作流"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 10,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 35,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 35,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "special-05": {
+    "category_id": "special-05",
+    "name": "GEO营销类",
+    "source": {
+      "printed_page": 17,
+      "pdf_page": 21,
+      "derived_focus": "生成式引擎品牌信息治理、引用监测与迭代",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "该营销机制是本项目主要贡献而非附带动作"
+      },
+      {
+        "id": "mechanism",
+        "question": "明确生成式答案可见性/引用的基线、测量和优化过程；普通SEO不足"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 10,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 35,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 35,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "special-06": {
+    "category_id": "special-06",
+    "name": "短剧及漫剧营销类",
+    "source": {
+      "printed_page": 17,
+      "pdf_page": 21,
+      "derived_focus": "短剧、漫剧与品牌自然融合及传播转化",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "该营销机制是本项目主要贡献而非附带动作"
+      },
+      {
+        "id": "mechanism",
+        "question": "短剧或漫剧内容是品牌融入和传播转化的核心，有真实作品"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 10,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 25,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 35,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "special-07": {
+    "category_id": "special-07",
+    "name": "短视频营销类",
+    "source": {
+      "printed_page": 17,
+      "pdf_page": 21,
+      "derived_focus": "短视频为核心传播载体",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "该营销机制是本项目主要贡献而非附带动作"
+      },
+      {
+        "id": "mechanism",
+        "question": "短视频是核心传播机制，有真实内容及结果，不仅是记录活动"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 10,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 35,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 35,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "special-08": {
+    "category_id": "special-08",
+    "name": "视频营销类",
+    "source": {
+      "printed_page": 17,
+      "pdf_page": 21,
+      "derived_focus": "长视频、TVC、品牌微电影等内容传播",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "该营销机制是本项目主要贡献而非附带动作"
+      },
+      {
+        "id": "mechanism",
+        "question": "长视频/TVC/品牌微电影等核心内容及传播贡献，有实际作品"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 10,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 35,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 35,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "special-09": {
+    "category_id": "special-09",
+    "name": "音频营销类",
+    "source": {
+      "printed_page": 17,
+      "pdf_page": 21,
+      "derived_focus": "音频内容与媒介为核心",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "该营销机制是本项目主要贡献而非附带动作"
+      },
+      {
+        "id": "mechanism",
+        "question": "音频内容或媒介为核心，提交真实音频与效果线索"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 10,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 40,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "special-10": {
+    "category_id": "special-10",
+    "name": "户外营销类",
+    "source": {
+      "printed_page": 18,
+      "pdf_page": 22,
+      "derived_focus": "公共空间媒介触达与互动",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "该营销机制是本项目主要贡献而非附带动作"
+      },
+      {
+        "id": "mechanism",
+        "question": "户外公共空间媒介机制为核心，有点位与真实触达或互动记录"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 10,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 40,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "special-11": {
+    "category_id": "special-11",
+    "name": "融媒体营销类",
+    "source": {
+      "printed_page": 18,
+      "pdf_page": 22,
+      "derived_focus": "多类媒体资源、内容与技术融合",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "该营销机制是本项目主要贡献而非附带动作"
+      },
+      {
+        "id": "mechanism",
+        "question": "多种媒体内容、资源或技术发生实质融合，不是简单跨平台分发"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 15,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 15,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 40,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "special-12": {
+    "category_id": "special-12",
+    "name": "媒介创新类",
+    "source": {
+      "printed_page": 18,
+      "pdf_page": 22,
+      "derived_focus": "媒介使用或组合方式创新",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "该营销机制是本项目主要贡献而非附带动作"
+      },
+      {
+        "id": "mechanism",
+        "question": "有可解释的媒介使用创新，与既有媒体方案相比的差异"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 10,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 40,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "special-13": {
+    "category_id": "special-13",
+    "name": "内容营销类",
+    "source": {
+      "printed_page": 18,
+      "pdf_page": 22,
+      "derived_focus": "有价值的品牌内容创作、发布传播",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "该营销机制是本项目主要贡献而非附带动作"
+      },
+      {
+        "id": "mechanism",
+        "question": "品牌内容本身提供受众价值，有内容体系、发布与真实反馈"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 10,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 35,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 35,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "special-14": {
+    "category_id": "special-14",
+    "name": "KOL及明星营销类",
+    "source": {
+      "printed_page": 18,
+      "pdf_page": 22,
+      "derived_focus": "明星或意见领袖运营与粉丝种草",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "该营销机制是本项目主要贡献而非附带动作"
+      },
+      {
+        "id": "mechanism",
+        "question": "KOL或明星是策略机制核心，有选择逻辑、粉丝机制与效果证据"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 10,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "special-15": {
+    "category_id": "special-15",
+    "name": "IP营销类",
+    "source": {
+      "printed_page": 18,
+      "pdf_page": 22,
+      "derived_focus": "IP价值传递、塑造传播及变现",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "该营销机制是本项目主要贡献而非附带动作"
+      },
+      {
+        "id": "mechanism",
+        "question": "IP的价值资产、联结或商业化为策略中心，明确IP权益与贡献"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 10,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "special-16": {
+    "category_id": "special-16",
+    "name": "种草营销类",
+    "source": {
+      "printed_page": 18,
+      "pdf_page": 22,
+      "derived_focus": "内容引发购买意愿及转化",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "该营销机制是本项目主要贡献而非附带动作"
+      },
+      {
+        "id": "mechanism",
+        "question": "内容种草到购买意愿或行为的合理证据链，曝光不等于种草"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 10,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "special-17": {
+    "category_id": "special-17",
+    "name": "社交媒体营销类",
+    "source": {
+      "printed_page": 18,
+      "pdf_page": 22,
+      "derived_focus": "社交平台传播、社群与自发分享",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "该营销机制是本项目主要贡献而非附带动作"
+      },
+      {
+        "id": "mechanism",
+        "question": "社交平台传播、参与或分享机制为核心，区别私域留存"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 10,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 40,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "special-18": {
+    "category_id": "special-18",
+    "name": "私域营销类",
+    "source": {
+      "printed_page": 18,
+      "pdf_page": 22,
+      "derived_focus": "自主用户资产及精细运营",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "该营销机制是本项目主要贡献而非附带动作"
+      },
+      {
+        "id": "mechanism",
+        "question": "有可运营的自有用户资产与分层触达/复购机制，区别单次社媒曝光"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 10,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 40,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "special-19": {
+    "category_id": "special-19",
+    "name": "事件营销类",
+    "source": {
+      "printed_page": 18,
+      "pdf_page": 22,
+      "derived_focus": "事件传播价值及品牌商业效果",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "该营销机制是本项目主要贡献而非附带动作"
+      },
+      {
+        "id": "mechanism",
+        "question": "真实事件及其传播机制是核心，有事件影响及商业关联"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 10,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 40,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "special-20": {
+    "category_id": "special-20",
+    "name": "场景营销类",
+    "source": {
+      "printed_page": 18,
+      "pdf_page": 22,
+      "derived_focus": "真实生活场景需求与行为转化",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "该营销机制是本项目主要贡献而非附带动作"
+      },
+      {
+        "id": "mechanism",
+        "question": "具体生活场景改变需求识别与行为，非仅拍摄场景"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 10,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 40,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "special-21": {
+    "category_id": "special-21",
+    "name": "节点营销类",
+    "source": {
+      "printed_page": 18,
+      "pdf_page": 22,
+      "derived_focus": "节日或品牌商业节点精准沟通",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "该营销机制是本项目主要贡献而非附带动作"
+      },
+      {
+        "id": "mechanism",
+        "question": "明确商业节点及其策略价值，非仅在节日发帖"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 10,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 40,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "special-22": {
+    "category_id": "special-22",
+    "name": "联合营销类",
+    "source": {
+      "printed_page": 18,
+      "pdf_page": 22,
+      "derived_focus": "企业品牌资源互换与共创",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "该营销机制是本项目主要贡献而非附带动作"
+      },
+      {
+        "id": "mechanism",
+        "question": "品牌间真实资源互补与共创，非简单联名贴标"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 10,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "special-23": {
+    "category_id": "special-23",
+    "name": "体验营销类",
+    "source": {
+      "printed_page": 19,
+      "pdf_page": 23,
+      "derived_focus": "消费者实际参与及沉浸互动体验",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "该营销机制是本项目主要贡献而非附带动作"
+      },
+      {
+        "id": "mechanism",
+        "question": "真实用户参与体验以及体验机制和反馈，非仅展台搭建"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 10,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 35,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 35,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "special-24": {
+    "category_id": "special-24",
+    "name": "效果营销类",
+    "source": {
+      "printed_page": 19,
+      "pdf_page": 23,
+      "derived_focus": "投放优化及实际转化和回报",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "该营销机制是本项目主要贡献而非附带动作"
+      },
+      {
+        "id": "mechanism",
+        "question": "实际转化优化、投入及归因边界，非单纯曝光"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 10,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 40,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "special-25": {
+    "category_id": "special-25",
+    "name": "整合营销类",
+    "source": {
+      "printed_page": 19,
+      "pdf_page": 23,
+      "derived_focus": "多形式媒介资源协同传播",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "该营销机制是本项目主要贡献而非附带动作"
+      },
+      {
+        "id": "mechanism",
+        "question": "不同营销形式有统一策略和协同路径，非渠道罗列"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 10,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 40,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "special-26": {
+    "category_id": "special-26",
+    "name": "商业创新类",
+    "source": {
+      "printed_page": 19,
+      "pdf_page": 23,
+      "derived_focus": "商业模式、价值创造逻辑变化",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "该营销机制是本项目主要贡献而非附带动作"
+      },
+      {
+        "id": "mechanism",
+        "question": "商业模式或价值创造逻辑发生可证明的变化，非普通促销"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 10,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 40,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "special-27": {
+    "category_id": "special-27",
+    "name": "公关传播类",
+    "source": {
+      "printed_page": 19,
+      "pdf_page": 23,
+      "derived_focus": "重大事件、舆情及公共沟通管理",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "该营销机制是本项目主要贡献而非附带动作"
+      },
+      {
+        "id": "mechanism",
+        "question": "公共沟通、舆情或重大事件管理为主要价值，有真实影响证据"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 10,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 40,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "special-28": {
+    "category_id": "special-28",
+    "name": "企业形象类",
+    "source": {
+      "printed_page": 19,
+      "pdf_page": 23,
+      "derived_focus": "整体企业品牌形象及口碑",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "该营销机制是本项目主要贡献而非附带动作"
+      },
+      {
+        "id": "mechanism",
+        "question": "企业整体形象与信任口碑为目标，非仅产品宣传"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 10,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 40,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "special-29": {
+    "category_id": "special-29",
+    "name": "ESG与公益类",
+    "source": {
+      "printed_page": 19,
+      "pdf_page": 23,
+      "derived_focus": "责任实践、公益参与和社会改善",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "该营销机制是本项目主要贡献而非附带动作"
+      },
+      {
+        "id": "mechanism",
+        "question": "明确责任或公益行动、受益方及可观察结果，非ESG口号"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 10,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 40,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "special-30": {
+    "category_id": "special-30",
+    "name": "出海营销类",
+    "source": {
+      "printed_page": 19,
+      "pdf_page": 23,
+      "derived_focus": "海外市场本地文化与商业目标",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "该营销机制是本项目主要贡献而非附带动作"
+      },
+      {
+        "id": "mechanism",
+        "question": "海外目标市场与本地化策略、实际触达或经营证据，非国内传播"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 10,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 35,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 35,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "special-31": {
+    "category_id": "special-31",
+    "name": "B2B营销类",
+    "source": {
+      "printed_page": 19,
+      "pdf_page": 23,
+      "derived_focus": "企业间专业需求与商业价值",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "该营销机制是本项目主要贡献而非附带动作"
+      },
+      {
+        "id": "mechanism",
+        "question": "企业客户需求、决策链及商业结果，非把B端技术当营销方法"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 10,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "special-32": {
+    "category_id": "special-32",
+    "name": "体育营销类",
+    "source": {
+      "printed_page": 19,
+      "pdf_page": 23,
+      "derived_focus": "体育元素是营销方式核心；仅体育品牌不充分",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "该营销机制是本项目主要贡献而非附带动作"
+      },
+      {
+        "id": "mechanism",
+        "question": "体育元素构成策略核心，非仅广告主属于体育行业"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 10,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 35,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 35,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "special-33": {
+    "category_id": "special-33",
+    "name": "游戏营销类",
+    "source": {
+      "printed_page": 19,
+      "pdf_page": 23,
+      "derived_focus": "游戏元素是营销方式核心；仅游戏品牌不充分",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "该营销机制是本项目主要贡献而非附带动作"
+      },
+      {
+        "id": "mechanism",
+        "question": "游戏机制或游戏内容构成策略核心，非仅游戏行业广告主"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 10,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 35,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 35,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "special-34": {
+    "category_id": "special-34",
+    "name": "娱乐营销类",
+    "source": {
+      "printed_page": 19,
+      "pdf_page": 23,
+      "derived_focus": "娱乐内容或IP植入互动",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "该营销机制是本项目主要贡献而非附带动作"
+      },
+      {
+        "id": "mechanism",
+        "question": "娱乐内容、IP植入或互动机制构成核心，非仅娱乐品牌"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 10,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 35,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 35,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "special-35": {
+    "category_id": "special-35",
+    "name": "智能终端营销类",
+    "source": {
+      "printed_page": 19,
+      "pdf_page": 23,
+      "derived_focus": "智能终端硬件与系统交互传播",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "该营销机制是本项目主要贡献而非附带动作"
+      },
+      {
+        "id": "mechanism",
+        "question": "智能终端硬件或系统交互产生实质传播价值，非普通屏幕广告"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 10,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 40,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "creative-01": {
+    "category_id": "creative-01",
+    "name": "AI创意类",
+    "source": {
+      "printed_page": 21,
+      "pdf_page": 25,
+      "derived_focus": "AI为核心创作驱动力",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "参赛主体为真实原创作品，有授权及实际成品"
+      },
+      {
+        "id": "mechanism",
+        "question": "AI参与核心原创表达与创作机制，展示实际作品；非仅制作提效"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "creative-02": {
+    "category_id": "creative-02",
+    "name": "视频创意类",
+    "source": {
+      "printed_page": 21,
+      "pdf_page": 25,
+      "derived_focus": "原创视频故事与视听表达",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "参赛主体为真实原创作品，有授权及实际成品"
+      },
+      {
+        "id": "mechanism",
+        "question": "原创视频叙事和视听表达有实际作品，非仅投放规模"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "creative-03": {
+    "category_id": "creative-03",
+    "name": "短视频创意类",
+    "source": {
+      "printed_page": 21,
+      "pdf_page": 25,
+      "derived_focus": "短时动态广告创意；具体形式限制复核原页",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "参赛主体为真实原创作品，有授权及实际成品"
+      },
+      {
+        "id": "mechanism",
+        "question": "短时动态创意作品及表达，核对当届具体形式要求"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "creative-04": {
+    "category_id": "creative-04",
+    "name": "动画创意类",
+    "source": {
+      "printed_page": 21,
+      "pdf_page": 25,
+      "derived_focus": "动画原创视角及表现",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "参赛主体为真实原创作品，有授权及实际成品"
+      },
+      {
+        "id": "mechanism",
+        "question": "动画表达与原创视角有实际作品，非仅动画工具使用"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "creative-05": {
+    "category_id": "creative-05",
+    "name": "互动创意类",
+    "source": {
+      "printed_page": 21,
+      "pdf_page": 25,
+      "derived_focus": "交互体验及用户参与",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "参赛主体为真实原创作品，有授权及实际成品"
+      },
+      {
+        "id": "mechanism",
+        "question": "用户参与和交互机制有可展示体验，非单向内容"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "creative-06": {
+    "category_id": "creative-06",
+    "name": "平面创意类",
+    "source": {
+      "printed_page": 21,
+      "pdf_page": 25,
+      "derived_focus": "数字媒介平面表达",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "参赛主体为真实原创作品，有授权及实际成品"
+      },
+      {
+        "id": "mechanism",
+        "question": "平面作品表达及设计逻辑有实际成品"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "creative-07": {
+    "category_id": "creative-07",
+    "name": "视觉设计与制作类",
+    "source": {
+      "printed_page": 21,
+      "pdf_page": 25,
+      "derived_focus": "品牌视觉、VI及制作",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "参赛主体为真实原创作品，有授权及实际成品"
+      },
+      {
+        "id": "mechanism",
+        "question": "视觉系统、VI或制作工艺有实际作品与使用场景"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "creative-08": {
+    "category_id": "creative-08",
+    "name": "产品创意类",
+    "source": {
+      "printed_page": 21,
+      "pdf_page": 25,
+      "derived_focus": "产品设计、功能或体验创新",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "参赛主体为真实原创作品，有授权及实际成品"
+      },
+      {
+        "id": "mechanism",
+        "question": "产品设计、功能或体验本身的原创改进有原型/成品"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "commerce-01": {
+    "category_id": "commerce-01",
+    "name": "全域经营类",
+    "source": {
+      "printed_page": 22,
+      "pdf_page": 26,
+      "derived_focus": "多场域经营闭环",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "真实电商经营项目，有经营机制及结果"
+      },
+      {
+        "id": "mechanism",
+        "question": "跨经营场域形成连接、承接和交易闭环；非渠道堆叠"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 15,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 35,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "commerce-02": {
+    "category_id": "commerce-02",
+    "name": "用户运营类",
+    "source": {
+      "printed_page": 22,
+      "pdf_page": 26,
+      "derived_focus": "拉新留存复购",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "真实电商经营项目，有经营机制及结果"
+      },
+      {
+        "id": "mechanism",
+        "question": "拉新、留存、复购等用户经营机制与实际指标，区别纯曝光"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 15,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 35,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "commerce-03": {
+    "category_id": "commerce-03",
+    "name": "新品与爆品营销类",
+    "source": {
+      "printed_page": 22,
+      "pdf_page": 26,
+      "derived_focus": "新品爆品及货品竞争力",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "真实电商经营项目，有经营机制及结果"
+      },
+      {
+        "id": "mechanism",
+        "question": "新品或爆品的货品策略、市场验证和销量结构，非简单打折"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 15,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 35,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "commerce-04": {
+    "category_id": "commerce-04",
+    "name": "种草转化类",
+    "source": {
+      "printed_page": 22,
+      "pdf_page": 26,
+      "derived_focus": "内容到成交",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "真实电商经营项目，有经营机制及结果"
+      },
+      {
+        "id": "mechanism",
+        "question": "内容至交易有可核验的路径、口径和转化证据"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 15,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 35,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "commerce-05": {
+    "category_id": "commerce-05",
+    "name": "直播电商类",
+    "source": {
+      "printed_page": 22,
+      "pdf_page": 26,
+      "derived_focus": "直播流量承接与交易",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "真实电商经营项目，有经营机制及结果"
+      },
+      {
+        "id": "mechanism",
+        "question": "直播流量、承接、交易及退款口径，非直播曝光"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 15,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 35,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "commerce-06": {
+    "category_id": "commerce-06",
+    "name": "即时零售与本地生活类",
+    "source": {
+      "printed_page": 22,
+      "pdf_page": 26,
+      "derived_focus": "本地供给履约及交易",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "真实电商经营项目，有经营机制及结果"
+      },
+      {
+        "id": "mechanism",
+        "question": "本地供给、即时履约和经营结果，非普通到店传播"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 15,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 35,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "commerce-07": {
+    "category_id": "commerce-07",
+    "name": "实效转化与大促营销类",
+    "source": {
+      "printed_page": 22,
+      "pdf_page": 26,
+      "derived_focus": "投放促销与GMV/ROI",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "真实电商经营项目，有经营机制及结果"
+      },
+      {
+        "id": "mechanism",
+        "question": "大促或投放与实效转化、净收益/成本口径，不以GMV替代利润"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 15,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 35,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "commerce-08": {
+    "category_id": "commerce-08",
+    "name": "AI技术创新类",
+    "source": {
+      "printed_page": 22,
+      "pdf_page": 26,
+      "derived_focus": "AI电商经营创新",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "真实电商经营项目，有经营机制及结果"
+      },
+      {
+        "id": "mechanism",
+        "question": "AI改变实际电商经营流程并有优化证据，非单纯素材生成"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标与挑战",
+        "weight": 15,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "洞察与策略",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "实施与创新",
+        "weight": 30,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "效果与数据",
+        "weight": 35,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "technology-01": {
+    "category_id": "technology-01",
+    "name": "年度最佳数据运营系统/工具/平台",
+    "source": {
+      "printed_page": 23,
+      "pdf_page": 27,
+      "derived_focus": "数据采集整合洞察、归因和运营",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "参赛主体是实际产品/系统/工具，不是营销案例；有客户使用证据"
+      },
+      {
+        "id": "mechanism",
+        "question": "真实数据采集/整合/归因/运营功能与客户使用证据"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标服务客户",
+        "weight": 0,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "产品功能概述",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "独有优势技术",
+        "weight": 40,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "成功案例分享",
+        "weight": 40,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "technology-02": {
+    "category_id": "technology-02",
+    "name": "年度最佳广告技术与智能投放系统/工具/平台",
+    "source": {
+      "printed_page": 23,
+      "pdf_page": 27,
+      "derived_focus": "跨渠道程序化及智能优化",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "参赛主体是实际产品/系统/工具，不是营销案例；有客户使用证据"
+      },
+      {
+        "id": "mechanism",
+        "question": "真实广告技术和智能投放能力、客户使用与对比效果"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标服务客户",
+        "weight": 0,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "产品功能概述",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "独有优势技术",
+        "weight": 40,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "成功案例分享",
+        "weight": 40,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "technology-03": {
+    "category_id": "technology-03",
+    "name": "年度最佳内容生成与交互体验系统/工具/平台",
+    "source": {
+      "printed_page": 23,
+      "pdf_page": 27,
+      "derived_focus": "AIGC内容生产、实时渲染及体验",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "参赛主体是实际产品/系统/工具，不是营销案例；有客户使用证据"
+      },
+      {
+        "id": "mechanism",
+        "question": "真实内容生成或交互体验功能、客户应用与质量/效率证据"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标服务客户",
+        "weight": 0,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "产品功能概述",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "独有优势技术",
+        "weight": 40,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "成功案例分享",
+        "weight": 40,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "technology-04": {
+    "category_id": "technology-04",
+    "name": "年度最佳技术创新体验系统/工具/平台",
+    "source": {
+      "printed_page": 23,
+      "pdf_page": 27,
+      "derived_focus": "GEO、Agent等前沿技术应用",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "参赛主体是实际产品/系统/工具，不是营销案例；有客户使用证据"
+      },
+      {
+        "id": "mechanism",
+        "question": "真实前沿技术系统或工具、客户使用与可验证创新贡献"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "目标服务客户",
+        "weight": 0,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "产品功能概述",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "独有优势技术",
+        "weight": 40,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "成功案例分享",
+        "weight": 40,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "brand_image-01": {
+    "category_id": "brand_image-01",
+    "name": "年度杰出品牌",
+    "source": {
+      "printed_page": 25,
+      "pdf_page": 29,
+      "derived_focus": "成熟品牌经营与长期竞争力",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "品牌方申报主体及年度范围需核实"
+      },
+      {
+        "id": "mechanism",
+        "question": "成熟品牌长期经营、用户资产及竞争力，有年度证据"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "业务经营表现",
+        "weight": 25,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "竞争壁垒构建",
+        "weight": 25,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "品牌资产沉淀",
+        "weight": 25,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "长期发展潜力",
+        "weight": 25,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "brand_image-02": {
+    "category_id": "brand_image-02",
+    "name": "年度新锐品牌",
+    "source": {
+      "printed_page": 25,
+      "pdf_page": 29,
+      "derived_focus": "成长品牌商业模式验证",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "品牌方申报主体及年度范围需核实"
+      },
+      {
+        "id": "mechanism",
+        "question": "成长阶段品牌的商业模式与市场验证，有年度经营证据"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "品牌定位与心智突破",
+        "weight": 25,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "业务成长表现",
+        "weight": 25,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "产品与体验创新",
+        "weight": 25,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "商业模式可持续性",
+        "weight": 25,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "brand_image-03": {
+    "category_id": "brand_image-03",
+    "name": "年度ESG品牌",
+    "source": {
+      "printed_page": 25,
+      "pdf_page": 29,
+      "derived_focus": "责任实践和商业价值融合",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "品牌方申报主体及年度范围需核实"
+      },
+      {
+        "id": "mechanism",
+        "question": "真实ESG实践、治理与社会/环境成果，有年度证据"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "E·环境责任",
+        "weight": 25,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "S·社会贡献",
+        "weight": 25,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "G·公司治理",
+        "weight": 25,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "ESG与商业价值融合",
+        "weight": 25,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "brand_product-01": {
+    "category_id": "brand_product-01",
+    "name": "年度产品创新大奖",
+    "source": {
+      "printed_page": 25,
+      "pdf_page": 29,
+      "derived_focus": "产品差异化及营销落地",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "品牌产品主体及年度范围需核实"
+      },
+      {
+        "id": "mechanism",
+        "question": "实际产品创新、用户价值及上市或营销验证，非概念方案"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "产品差异优势",
+        "weight": 25,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "营销核心策略",
+        "weight": 35,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "商业市场成果",
+        "weight": 25,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "行业影响价值",
+        "weight": 15,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "brand_person-01": {
+    "category_id": "brand_person-01",
+    "name": "年度杰出品牌人物",
+    "source": {
+      "printed_page": 26,
+      "pdf_page": 30,
+      "derived_focus": "品牌方总经理/CXO等战略领导者",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "品牌方人物身份、任职及年度范围需核实"
+      },
+      {
+        "id": "mechanism",
+        "question": "品牌方战略领导者职责与可归属年度贡献，有任职和成果依据"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "年度业绩描述",
+        "weight": 40,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "年度行业发声",
+        "weight": 15,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "年度公益参与",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "年度获奖明细",
+        "weight": 15,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "社会兼职情况",
+        "weight": 10,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  },
+  "brand_person-02": {
+    "category_id": "brand_person-02",
+    "name": "年度新锐品牌人物",
+    "source": {
+      "printed_page": 26,
+      "pdf_page": 30,
+      "derived_focus": "品牌方品牌总监及执行中坚",
+      "status": "B版手册摘要；未完整重录官方定义"
+    },
+    "nature": "advisor_conditions_not_official_eligibility",
+    "conditions": [
+      {
+        "id": "subject",
+        "question": "品牌方人物身份、任职及年度范围需核实"
+      },
+      {
+        "id": "mechanism",
+        "question": "品牌方品牌总监或执行中坚职责与可归属贡献，有任职和成果依据"
+      }
+    ],
+    "review_method": "逐条件列匹配、反证、未知；无法核验则 UNKNOWN。以实际机制和证据判断，不按关键词。",
+    "dimensions": [
+      {
+        "name": "年度业绩描述",
+        "weight": 40,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "年度行业发声",
+        "weight": 15,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "年度公益参与",
+        "weight": 20,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "年度获奖明细",
+        "weight": 15,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      },
+      {
+        "name": "社会兼职情况",
+        "weight": 10,
+        "question": "针对该赛道和本维度给原件证据、反证及评分理由；没有证据记未知。"
+      }
+    ]
+  }
+}

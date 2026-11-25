@@ -1,0 +1,1369 @@
+[
+  {
+    "id": "general-01",
+    "group": "general",
+    "name": "餐饮门店类",
+    "focus": "实体餐饮及连锁终端；无门店不建议",
+    "weights": {
+      "目标与挑战": 20,
+      "洞察与策略": 30,
+      "实施与创新": 20,
+      "效果与数据": 30
+    },
+    "printed_page": 15,
+    "pdf_page": 19,
+    "mode": "direct"
+  },
+  {
+    "id": "general-02",
+    "group": "general",
+    "name": "食品类",
+    "focus": "食品加工及包装食品",
+    "weights": {
+      "目标与挑战": 20,
+      "洞察与策略": 30,
+      "实施与创新": 20,
+      "效果与数据": 30
+    },
+    "printed_page": 15,
+    "pdf_page": 19,
+    "mode": "direct"
+  },
+  {
+    "id": "general-03",
+    "group": "general",
+    "name": "饮料类",
+    "focus": "包装饮品；线下咖啡茶饮门店归餐饮",
+    "weights": {
+      "目标与挑战": 20,
+      "洞察与策略": 30,
+      "实施与创新": 20,
+      "效果与数据": 30
+    },
+    "printed_page": 15,
+    "pdf_page": 19,
+    "mode": "direct"
+  },
+  {
+    "id": "general-04",
+    "group": "general",
+    "name": "酒水类",
+    "focus": "发酵、蒸馏及配制酒",
+    "weights": {
+      "目标与挑战": 20,
+      "洞察与策略": 30,
+      "实施与创新": 20,
+      "效果与数据": 30
+    },
+    "printed_page": 15,
+    "pdf_page": 19,
+    "mode": "direct"
+  },
+  {
+    "id": "general-05",
+    "group": "general",
+    "name": "服饰鞋履配饰类",
+    "focus": "服装鞋履及配饰",
+    "weights": {
+      "目标与挑战": 20,
+      "洞察与策略": 30,
+      "实施与创新": 20,
+      "效果与数据": 30
+    },
+    "printed_page": 15,
+    "pdf_page": 19,
+    "mode": "direct"
+  },
+  {
+    "id": "general-06",
+    "group": "general",
+    "name": "家居日用类",
+    "focus": "家居用品与日用消费品",
+    "weights": {
+      "目标与挑战": 20,
+      "洞察与策略": 30,
+      "实施与创新": 20,
+      "效果与数据": 30
+    },
+    "printed_page": 15,
+    "pdf_page": 19,
+    "mode": "direct"
+  },
+  {
+    "id": "general-07",
+    "group": "general",
+    "name": "家电类",
+    "focus": "家庭及类似场景电器",
+    "weights": {
+      "目标与挑战": 20,
+      "洞察与策略": 30,
+      "实施与创新": 20,
+      "效果与数据": 30
+    },
+    "printed_page": 15,
+    "pdf_page": 19,
+    "mode": "direct"
+  },
+  {
+    "id": "general-08",
+    "group": "general",
+    "name": "美妆个护类",
+    "focus": "美容和个人护理",
+    "weights": {
+      "目标与挑战": 20,
+      "洞察与策略": 30,
+      "实施与创新": 20,
+      "效果与数据": 30
+    },
+    "printed_page": 15,
+    "pdf_page": 19,
+    "mode": "direct"
+  },
+  {
+    "id": "general-09",
+    "group": "general",
+    "name": "健康保健类",
+    "focus": "医药健康、保健及健康器材",
+    "weights": {
+      "目标与挑战": 20,
+      "洞察与策略": 30,
+      "实施与创新": 20,
+      "效果与数据": 30
+    },
+    "printed_page": 15,
+    "pdf_page": 19,
+    "mode": "direct"
+  },
+  {
+    "id": "general-10",
+    "group": "general",
+    "name": "母婴亲子类",
+    "focus": "母婴护理、食品、用品及早教",
+    "weights": {
+      "目标与挑战": 20,
+      "洞察与策略": 30,
+      "实施与创新": 20,
+      "效果与数据": 30
+    },
+    "printed_page": 15,
+    "pdf_page": 19,
+    "mode": "direct"
+  },
+  {
+    "id": "general-11",
+    "group": "general",
+    "name": "萌宠类",
+    "focus": "宠物产品及服务",
+    "weights": {
+      "目标与挑战": 20,
+      "洞察与策略": 30,
+      "实施与创新": 20,
+      "效果与数据": 30
+    },
+    "printed_page": 16,
+    "pdf_page": 20,
+    "mode": "direct"
+  },
+  {
+    "id": "general-12",
+    "group": "general",
+    "name": "银发产品及服务类",
+    "focus": "面向老年人的产品服务",
+    "weights": {
+      "目标与挑战": 20,
+      "洞察与策略": 30,
+      "实施与创新": 20,
+      "效果与数据": 30
+    },
+    "printed_page": 16,
+    "pdf_page": 20,
+    "mode": "direct"
+  },
+  {
+    "id": "general-13",
+    "group": "general",
+    "name": "零售与生活服务类",
+    "focus": "零售及生活服务经营主体",
+    "weights": {
+      "目标与挑战": 20,
+      "洞察与策略": 30,
+      "实施与创新": 20,
+      "效果与数据": 30
+    },
+    "printed_page": 16,
+    "pdf_page": 20,
+    "mode": "direct"
+  },
+  {
+    "id": "general-14",
+    "group": "general",
+    "name": "电子产品与设备类",
+    "focus": "电子及办公设备",
+    "weights": {
+      "目标与挑战": 20,
+      "洞察与策略": 30,
+      "实施与创新": 20,
+      "效果与数据": 30
+    },
+    "printed_page": 16,
+    "pdf_page": 20,
+    "mode": "direct"
+  },
+  {
+    "id": "general-15",
+    "group": "general",
+    "name": "科技制造与通信服务类",
+    "focus": "工业制造、新能源、通信及B端数字科技",
+    "weights": {
+      "目标与挑战": 20,
+      "洞察与策略": 30,
+      "实施与创新": 20,
+      "效果与数据": 30
+    },
+    "printed_page": 16,
+    "pdf_page": 20,
+    "mode": "direct"
+  },
+  {
+    "id": "general-16",
+    "group": "general",
+    "name": "平台应用类",
+    "focus": "App及网站平台",
+    "weights": {
+      "目标与挑战": 20,
+      "洞察与策略": 30,
+      "实施与创新": 20,
+      "效果与数据": 30
+    },
+    "printed_page": 16,
+    "pdf_page": 20,
+    "mode": "direct"
+  },
+  {
+    "id": "general-17",
+    "group": "general",
+    "name": "机动车关联市场及交通运输类",
+    "focus": "机动车及售后、运输物流",
+    "weights": {
+      "目标与挑战": 20,
+      "洞察与策略": 30,
+      "实施与创新": 20,
+      "效果与数据": 30
+    },
+    "printed_page": 16,
+    "pdf_page": 20,
+    "mode": "direct"
+  },
+  {
+    "id": "general-18",
+    "group": "general",
+    "name": "会展活动赛事类",
+    "focus": "会展活动及赛事主办方",
+    "weights": {
+      "目标与挑战": 20,
+      "洞察与策略": 30,
+      "实施与创新": 20,
+      "效果与数据": 30
+    },
+    "printed_page": 16,
+    "pdf_page": 20,
+    "mode": "direct"
+  },
+  {
+    "id": "general-19",
+    "group": "general",
+    "name": "文化潮流与娱乐类",
+    "focus": "文化潮流娱乐品牌",
+    "weights": {
+      "目标与挑战": 20,
+      "洞察与策略": 30,
+      "实施与创新": 20,
+      "效果与数据": 30
+    },
+    "printed_page": 16,
+    "pdf_page": 20,
+    "mode": "direct"
+  },
+  {
+    "id": "general-20",
+    "group": "general",
+    "name": "文旅类",
+    "focus": "文化旅游及目的地服务",
+    "weights": {
+      "目标与挑战": 20,
+      "洞察与策略": 30,
+      "实施与创新": 20,
+      "效果与数据": 30
+    },
+    "printed_page": 16,
+    "pdf_page": 20,
+    "mode": "direct"
+  },
+  {
+    "id": "general-21",
+    "group": "general",
+    "name": "金融保险产品与服务类",
+    "focus": "金融保险产品服务",
+    "weights": {
+      "目标与挑战": 20,
+      "洞察与策略": 30,
+      "实施与创新": 20,
+      "效果与数据": 30
+    },
+    "printed_page": 16,
+    "pdf_page": 20,
+    "mode": "direct"
+  },
+  {
+    "id": "general-22",
+    "group": "general",
+    "name": "政府机构与社会组织类",
+    "focus": "政府及公共服务和社会组织",
+    "weights": {
+      "目标与挑战": 20,
+      "洞察与策略": 30,
+      "实施与创新": 20,
+      "效果与数据": 30
+    },
+    "printed_page": 16,
+    "pdf_page": 20,
+    "mode": "direct"
+  },
+  {
+    "id": "special-01",
+    "group": "special",
+    "name": "AI全链路营销类",
+    "focus": "AI贯穿洞察、策略、创意、投放、运营、转化及迭代闭环",
+    "weights": {
+      "目标与挑战": 10,
+      "洞察与策略": 20,
+      "实施与创新": 35,
+      "效果与数据": 35
+    },
+    "printed_page": 17,
+    "pdf_page": 21,
+    "mode": "direct"
+  },
+  {
+    "id": "special-02",
+    "group": "special",
+    "name": "AI智能运营类",
+    "focus": "算法优化投放和用户生命周期运营",
+    "weights": {
+      "目标与挑战": 10,
+      "洞察与策略": 20,
+      "实施与创新": 35,
+      "效果与数据": 35
+    },
+    "printed_page": 17,
+    "pdf_page": 21,
+    "mode": "direct"
+  },
+  {
+    "id": "special-03",
+    "group": "special",
+    "name": "AIGC营销类",
+    "focus": "生成式AI驱动营销内容产出与人机协同",
+    "weights": {
+      "目标与挑战": 10,
+      "洞察与策略": 20,
+      "实施与创新": 35,
+      "效果与数据": 35
+    },
+    "printed_page": 17,
+    "pdf_page": 21,
+    "mode": "direct"
+  },
+  {
+    "id": "special-04",
+    "group": "special",
+    "name": "AI Agent 营销类",
+    "focus": "自主任务规划、决策执行、多轮交互的智能体落地",
+    "weights": {
+      "目标与挑战": 10,
+      "洞察与策略": 20,
+      "实施与创新": 35,
+      "效果与数据": 35
+    },
+    "printed_page": 17,
+    "pdf_page": 21,
+    "mode": "direct"
+  },
+  {
+    "id": "special-05",
+    "group": "special",
+    "name": "GEO营销类",
+    "focus": "生成式引擎品牌信息治理、引用监测与迭代",
+    "weights": {
+      "目标与挑战": 10,
+      "洞察与策略": 20,
+      "实施与创新": 35,
+      "效果与数据": 35
+    },
+    "printed_page": 17,
+    "pdf_page": 21,
+    "mode": "direct"
+  },
+  {
+    "id": "special-06",
+    "group": "special",
+    "name": "短剧及漫剧营销类",
+    "focus": "短剧、漫剧与品牌自然融合及传播转化",
+    "weights": {
+      "目标与挑战": 10,
+      "洞察与策略": 25,
+      "实施与创新": 35,
+      "效果与数据": 30
+    },
+    "printed_page": 17,
+    "pdf_page": 21,
+    "mode": "direct"
+  },
+  {
+    "id": "special-07",
+    "group": "special",
+    "name": "短视频营销类",
+    "focus": "短视频为核心传播载体",
+    "weights": {
+      "目标与挑战": 10,
+      "洞察与策略": 35,
+      "实施与创新": 35,
+      "效果与数据": 20
+    },
+    "printed_page": 17,
+    "pdf_page": 21,
+    "mode": "direct"
+  },
+  {
+    "id": "special-08",
+    "group": "special",
+    "name": "视频营销类",
+    "focus": "长视频、TVC、品牌微电影等内容传播",
+    "weights": {
+      "目标与挑战": 10,
+      "洞察与策略": 35,
+      "实施与创新": 35,
+      "效果与数据": 20
+    },
+    "printed_page": 17,
+    "pdf_page": 21,
+    "mode": "direct"
+  },
+  {
+    "id": "special-09",
+    "group": "special",
+    "name": "音频营销类",
+    "focus": "音频内容与媒介为核心",
+    "weights": {
+      "目标与挑战": 10,
+      "洞察与策略": 30,
+      "实施与创新": 40,
+      "效果与数据": 20
+    },
+    "printed_page": 17,
+    "pdf_page": 21,
+    "mode": "direct"
+  },
+  {
+    "id": "special-10",
+    "group": "special",
+    "name": "户外营销类",
+    "focus": "公共空间媒介触达与互动",
+    "weights": {
+      "目标与挑战": 10,
+      "洞察与策略": 30,
+      "实施与创新": 40,
+      "效果与数据": 20
+    },
+    "printed_page": 18,
+    "pdf_page": 22,
+    "mode": "direct"
+  },
+  {
+    "id": "special-11",
+    "group": "special",
+    "name": "融媒体营销类",
+    "focus": "多类媒体资源、内容与技术融合",
+    "weights": {
+      "目标与挑战": 15,
+      "洞察与策略": 15,
+      "实施与创新": 40,
+      "效果与数据": 30
+    },
+    "printed_page": 18,
+    "pdf_page": 22,
+    "mode": "direct"
+  },
+  {
+    "id": "special-12",
+    "group": "special",
+    "name": "媒介创新类",
+    "focus": "媒介使用或组合方式创新",
+    "weights": {
+      "目标与挑战": 10,
+      "洞察与策略": 30,
+      "实施与创新": 40,
+      "效果与数据": 20
+    },
+    "printed_page": 18,
+    "pdf_page": 22,
+    "mode": "direct"
+  },
+  {
+    "id": "special-13",
+    "group": "special",
+    "name": "内容营销类",
+    "focus": "有价值的品牌内容创作、发布传播",
+    "weights": {
+      "目标与挑战": 10,
+      "洞察与策略": 35,
+      "实施与创新": 35,
+      "效果与数据": 20
+    },
+    "printed_page": 18,
+    "pdf_page": 22,
+    "mode": "direct"
+  },
+  {
+    "id": "special-14",
+    "group": "special",
+    "name": "KOL及明星营销类",
+    "focus": "明星或意见领袖运营与粉丝种草",
+    "weights": {
+      "目标与挑战": 10,
+      "洞察与策略": 30,
+      "实施与创新": 30,
+      "效果与数据": 30
+    },
+    "printed_page": 18,
+    "pdf_page": 22,
+    "mode": "direct"
+  },
+  {
+    "id": "special-15",
+    "group": "special",
+    "name": "IP营销类",
+    "focus": "IP价值传递、塑造传播及变现",
+    "weights": {
+      "目标与挑战": 10,
+      "洞察与策略": 30,
+      "实施与创新": 30,
+      "效果与数据": 30
+    },
+    "printed_page": 18,
+    "pdf_page": 22,
+    "mode": "direct"
+  },
+  {
+    "id": "special-16",
+    "group": "special",
+    "name": "种草营销类",
+    "focus": "内容引发购买意愿及转化",
+    "weights": {
+      "目标与挑战": 10,
+      "洞察与策略": 30,
+      "实施与创新": 30,
+      "效果与数据": 30
+    },
+    "printed_page": 18,
+    "pdf_page": 22,
+    "mode": "direct"
+  },
+  {
+    "id": "special-17",
+    "group": "special",
+    "name": "社交媒体营销类",
+    "focus": "社交平台传播、社群与自发分享",
+    "weights": {
+      "目标与挑战": 10,
+      "洞察与策略": 30,
+      "实施与创新": 40,
+      "效果与数据": 20
+    },
+    "printed_page": 18,
+    "pdf_page": 22,
+    "mode": "direct"
+  },
+  {
+    "id": "special-18",
+    "group": "special",
+    "name": "私域营销类",
+    "focus": "自主用户资产及精细运营",
+    "weights": {
+      "目标与挑战": 10,
+      "洞察与策略": 20,
+      "实施与创新": 30,
+      "效果与数据": 40
+    },
+    "printed_page": 18,
+    "pdf_page": 22,
+    "mode": "direct"
+  },
+  {
+    "id": "special-19",
+    "group": "special",
+    "name": "事件营销类",
+    "focus": "事件传播价值及品牌商业效果",
+    "weights": {
+      "目标与挑战": 10,
+      "洞察与策略": 20,
+      "实施与创新": 40,
+      "效果与数据": 30
+    },
+    "printed_page": 18,
+    "pdf_page": 22,
+    "mode": "direct"
+  },
+  {
+    "id": "special-20",
+    "group": "special",
+    "name": "场景营销类",
+    "focus": "真实生活场景需求与行为转化",
+    "weights": {
+      "目标与挑战": 10,
+      "洞察与策略": 30,
+      "实施与创新": 20,
+      "效果与数据": 40
+    },
+    "printed_page": 18,
+    "pdf_page": 22,
+    "mode": "direct"
+  },
+  {
+    "id": "special-21",
+    "group": "special",
+    "name": "节点营销类",
+    "focus": "节日或品牌商业节点精准沟通",
+    "weights": {
+      "目标与挑战": 10,
+      "洞察与策略": 20,
+      "实施与创新": 40,
+      "效果与数据": 30
+    },
+    "printed_page": 18,
+    "pdf_page": 22,
+    "mode": "direct"
+  },
+  {
+    "id": "special-22",
+    "group": "special",
+    "name": "联合营销类",
+    "focus": "企业品牌资源互换与共创",
+    "weights": {
+      "目标与挑战": 10,
+      "洞察与策略": 30,
+      "实施与创新": 30,
+      "效果与数据": 30
+    },
+    "printed_page": 18,
+    "pdf_page": 22,
+    "mode": "direct"
+  },
+  {
+    "id": "special-23",
+    "group": "special",
+    "name": "体验营销类",
+    "focus": "消费者实际参与及沉浸互动体验",
+    "weights": {
+      "目标与挑战": 10,
+      "洞察与策略": 35,
+      "实施与创新": 35,
+      "效果与数据": 20
+    },
+    "printed_page": 19,
+    "pdf_page": 23,
+    "mode": "direct"
+  },
+  {
+    "id": "special-24",
+    "group": "special",
+    "name": "效果营销类",
+    "focus": "投放优化及实际转化和回报",
+    "weights": {
+      "目标与挑战": 10,
+      "洞察与策略": 20,
+      "实施与创新": 30,
+      "效果与数据": 40
+    },
+    "printed_page": 19,
+    "pdf_page": 23,
+    "mode": "direct"
+  },
+  {
+    "id": "special-25",
+    "group": "special",
+    "name": "整合营销类",
+    "focus": "多形式媒介资源协同传播",
+    "weights": {
+      "目标与挑战": 10,
+      "洞察与策略": 30,
+      "实施与创新": 40,
+      "效果与数据": 20
+    },
+    "printed_page": 19,
+    "pdf_page": 23,
+    "mode": "direct"
+  },
+  {
+    "id": "special-26",
+    "group": "special",
+    "name": "商业创新类",
+    "focus": "商业模式、价值创造逻辑变化",
+    "weights": {
+      "目标与挑战": 10,
+      "洞察与策略": 20,
+      "实施与创新": 40,
+      "效果与数据": 30
+    },
+    "printed_page": 19,
+    "pdf_page": 23,
+    "mode": "direct"
+  },
+  {
+    "id": "special-27",
+    "group": "special",
+    "name": "公关传播类",
+    "focus": "重大事件、舆情及公共沟通管理",
+    "weights": {
+      "目标与挑战": 10,
+      "洞察与策略": 30,
+      "实施与创新": 40,
+      "效果与数据": 20
+    },
+    "printed_page": 19,
+    "pdf_page": 23,
+    "mode": "direct"
+  },
+  {
+    "id": "special-28",
+    "group": "special",
+    "name": "企业形象类",
+    "focus": "整体企业品牌形象及口碑",
+    "weights": {
+      "目标与挑战": 10,
+      "洞察与策略": 30,
+      "实施与创新": 40,
+      "效果与数据": 20
+    },
+    "printed_page": 19,
+    "pdf_page": 23,
+    "mode": "direct"
+  },
+  {
+    "id": "special-29",
+    "group": "special",
+    "name": "ESG与公益类",
+    "focus": "责任实践、公益参与和社会改善",
+    "weights": {
+      "目标与挑战": 10,
+      "洞察与策略": 30,
+      "实施与创新": 40,
+      "效果与数据": 20
+    },
+    "printed_page": 19,
+    "pdf_page": 23,
+    "mode": "direct"
+  },
+  {
+    "id": "special-30",
+    "group": "special",
+    "name": "出海营销类",
+    "focus": "海外市场本地文化与商业目标",
+    "weights": {
+      "目标与挑战": 10,
+      "洞察与策略": 20,
+      "实施与创新": 35,
+      "效果与数据": 35
+    },
+    "printed_page": 19,
+    "pdf_page": 23,
+    "mode": "direct"
+  },
+  {
+    "id": "special-31",
+    "group": "special",
+    "name": "B2B营销类",
+    "focus": "企业间专业需求与商业价值",
+    "weights": {
+      "目标与挑战": 10,
+      "洞察与策略": 30,
+      "实施与创新": 30,
+      "效果与数据": 30
+    },
+    "printed_page": 19,
+    "pdf_page": 23,
+    "mode": "direct"
+  },
+  {
+    "id": "special-32",
+    "group": "special",
+    "name": "体育营销类",
+    "focus": "体育元素是营销方式核心；仅体育品牌不充分",
+    "weights": {
+      "目标与挑战": 10,
+      "洞察与策略": 35,
+      "实施与创新": 35,
+      "效果与数据": 20
+    },
+    "printed_page": 19,
+    "pdf_page": 23,
+    "mode": "direct"
+  },
+  {
+    "id": "special-33",
+    "group": "special",
+    "name": "游戏营销类",
+    "focus": "游戏元素是营销方式核心；仅游戏品牌不充分",
+    "weights": {
+      "目标与挑战": 10,
+      "洞察与策略": 35,
+      "实施与创新": 35,
+      "效果与数据": 20
+    },
+    "printed_page": 19,
+    "pdf_page": 23,
+    "mode": "direct"
+  },
+  {
+    "id": "special-34",
+    "group": "special",
+    "name": "娱乐营销类",
+    "focus": "娱乐内容或IP植入互动",
+    "weights": {
+      "目标与挑战": 10,
+      "洞察与策略": 35,
+      "实施与创新": 35,
+      "效果与数据": 20
+    },
+    "printed_page": 19,
+    "pdf_page": 23,
+    "mode": "direct"
+  },
+  {
+    "id": "special-35",
+    "group": "special",
+    "name": "智能终端营销类",
+    "focus": "智能终端硬件与系统交互传播",
+    "weights": {
+      "目标与挑战": 10,
+      "洞察与策略": 30,
+      "实施与创新": 40,
+      "效果与数据": 20
+    },
+    "printed_page": 19,
+    "pdf_page": 23,
+    "mode": "direct"
+  },
+  {
+    "id": "creative-01",
+    "group": "creative",
+    "name": "AI创意类",
+    "focus": "AI为核心创作驱动力",
+    "weights": {
+      "目标与挑战": 20,
+      "洞察与策略": 30,
+      "实施与创新": 30,
+      "效果与数据": 20
+    },
+    "printed_page": 21,
+    "pdf_page": 25,
+    "mode": "direct"
+  },
+  {
+    "id": "creative-02",
+    "group": "creative",
+    "name": "视频创意类",
+    "focus": "原创视频故事与视听表达",
+    "weights": {
+      "目标与挑战": 20,
+      "洞察与策略": 30,
+      "实施与创新": 30,
+      "效果与数据": 20
+    },
+    "printed_page": 21,
+    "pdf_page": 25,
+    "mode": "direct"
+  },
+  {
+    "id": "creative-03",
+    "group": "creative",
+    "name": "短视频创意类",
+    "focus": "短时动态广告创意；具体形式限制复核原页",
+    "weights": {
+      "目标与挑战": 20,
+      "洞察与策略": 30,
+      "实施与创新": 30,
+      "效果与数据": 20
+    },
+    "printed_page": 21,
+    "pdf_page": 25,
+    "mode": "direct"
+  },
+  {
+    "id": "creative-04",
+    "group": "creative",
+    "name": "动画创意类",
+    "focus": "动画原创视角及表现",
+    "weights": {
+      "目标与挑战": 20,
+      "洞察与策略": 30,
+      "实施与创新": 30,
+      "效果与数据": 20
+    },
+    "printed_page": 21,
+    "pdf_page": 25,
+    "mode": "direct"
+  },
+  {
+    "id": "creative-05",
+    "group": "creative",
+    "name": "互动创意类",
+    "focus": "交互体验及用户参与",
+    "weights": {
+      "目标与挑战": 20,
+      "洞察与策略": 30,
+      "实施与创新": 30,
+      "效果与数据": 20
+    },
+    "printed_page": 21,
+    "pdf_page": 25,
+    "mode": "direct"
+  },
+  {
+    "id": "creative-06",
+    "group": "creative",
+    "name": "平面创意类",
+    "focus": "数字媒介平面表达",
+    "weights": {
+      "目标与挑战": 20,
+      "洞察与策略": 30,
+      "实施与创新": 30,
+      "效果与数据": 20
+    },
+    "printed_page": 21,
+    "pdf_page": 25,
+    "mode": "direct"
+  },
+  {
+    "id": "creative-07",
+    "group": "creative",
+    "name": "视觉设计与制作类",
+    "focus": "品牌视觉、VI及制作",
+    "weights": {
+      "目标与挑战": 20,
+      "洞察与策略": 30,
+      "实施与创新": 30,
+      "效果与数据": 20
+    },
+    "printed_page": 21,
+    "pdf_page": 25,
+    "mode": "direct"
+  },
+  {
+    "id": "creative-08",
+    "group": "creative",
+    "name": "产品创意类",
+    "focus": "产品设计、功能或体验创新",
+    "weights": {
+      "目标与挑战": 20,
+      "洞察与策略": 30,
+      "实施与创新": 30,
+      "效果与数据": 20
+    },
+    "printed_page": 21,
+    "pdf_page": 25,
+    "mode": "direct"
+  },
+  {
+    "id": "commerce-01",
+    "group": "commerce",
+    "name": "全域经营类",
+    "focus": "多场域经营闭环",
+    "weights": {
+      "目标与挑战": 15,
+      "洞察与策略": 20,
+      "实施与创新": 30,
+      "效果与数据": 35
+    },
+    "printed_page": 22,
+    "pdf_page": 26,
+    "mode": "direct"
+  },
+  {
+    "id": "commerce-02",
+    "group": "commerce",
+    "name": "用户运营类",
+    "focus": "拉新留存复购",
+    "weights": {
+      "目标与挑战": 15,
+      "洞察与策略": 20,
+      "实施与创新": 30,
+      "效果与数据": 35
+    },
+    "printed_page": 22,
+    "pdf_page": 26,
+    "mode": "direct"
+  },
+  {
+    "id": "commerce-03",
+    "group": "commerce",
+    "name": "新品与爆品营销类",
+    "focus": "新品爆品及货品竞争力",
+    "weights": {
+      "目标与挑战": 15,
+      "洞察与策略": 20,
+      "实施与创新": 30,
+      "效果与数据": 35
+    },
+    "printed_page": 22,
+    "pdf_page": 26,
+    "mode": "direct"
+  },
+  {
+    "id": "commerce-04",
+    "group": "commerce",
+    "name": "种草转化类",
+    "focus": "内容到成交",
+    "weights": {
+      "目标与挑战": 15,
+      "洞察与策略": 20,
+      "实施与创新": 30,
+      "效果与数据": 35
+    },
+    "printed_page": 22,
+    "pdf_page": 26,
+    "mode": "direct"
+  },
+  {
+    "id": "commerce-05",
+    "group": "commerce",
+    "name": "直播电商类",
+    "focus": "直播流量承接与交易",
+    "weights": {
+      "目标与挑战": 15,
+      "洞察与策略": 20,
+      "实施与创新": 30,
+      "效果与数据": 35
+    },
+    "printed_page": 22,
+    "pdf_page": 26,
+    "mode": "direct"
+  },
+  {
+    "id": "commerce-06",
+    "group": "commerce",
+    "name": "即时零售与本地生活类",
+    "focus": "本地供给履约及交易",
+    "weights": {
+      "目标与挑战": 15,
+      "洞察与策略": 20,
+      "实施与创新": 30,
+      "效果与数据": 35
+    },
+    "printed_page": 22,
+    "pdf_page": 26,
+    "mode": "direct"
+  },
+  {
+    "id": "commerce-07",
+    "group": "commerce",
+    "name": "实效转化与大促营销类",
+    "focus": "投放促销与GMV/ROI",
+    "weights": {
+      "目标与挑战": 15,
+      "洞察与策略": 20,
+      "实施与创新": 30,
+      "效果与数据": 35
+    },
+    "printed_page": 22,
+    "pdf_page": 26,
+    "mode": "direct"
+  },
+  {
+    "id": "commerce-08",
+    "group": "commerce",
+    "name": "AI技术创新类",
+    "focus": "AI电商经营创新",
+    "weights": {
+      "目标与挑战": 15,
+      "洞察与策略": 20,
+      "实施与创新": 30,
+      "效果与数据": 35
+    },
+    "printed_page": 22,
+    "pdf_page": 26,
+    "mode": "direct"
+  },
+  {
+    "id": "technology-01",
+    "group": "technology",
+    "name": "年度最佳数据运营系统/工具/平台",
+    "focus": "数据采集整合洞察、归因和运营",
+    "weights": {
+      "目标服务客户": 0,
+      "产品功能概述": 20,
+      "独有优势技术": 40,
+      "成功案例分享": 40
+    },
+    "printed_page": 23,
+    "pdf_page": 27,
+    "mode": "direct"
+  },
+  {
+    "id": "technology-02",
+    "group": "technology",
+    "name": "年度最佳广告技术与智能投放系统/工具/平台",
+    "focus": "跨渠道程序化及智能优化",
+    "weights": {
+      "目标服务客户": 0,
+      "产品功能概述": 20,
+      "独有优势技术": 40,
+      "成功案例分享": 40
+    },
+    "printed_page": 23,
+    "pdf_page": 27,
+    "mode": "direct"
+  },
+  {
+    "id": "technology-03",
+    "group": "technology",
+    "name": "年度最佳内容生成与交互体验系统/工具/平台",
+    "focus": "AIGC内容生产、实时渲染及体验",
+    "weights": {
+      "目标服务客户": 0,
+      "产品功能概述": 20,
+      "独有优势技术": 40,
+      "成功案例分享": 40
+    },
+    "printed_page": 23,
+    "pdf_page": 27,
+    "mode": "direct"
+  },
+  {
+    "id": "technology-04",
+    "group": "technology",
+    "name": "年度最佳技术创新体验系统/工具/平台",
+    "focus": "GEO、Agent等前沿技术应用",
+    "weights": {
+      "目标服务客户": 0,
+      "产品功能概述": 20,
+      "独有优势技术": 40,
+      "成功案例分享": 40
+    },
+    "printed_page": 23,
+    "pdf_page": 27,
+    "mode": "direct"
+  },
+  {
+    "id": "brand_image-01",
+    "group": "brand_image",
+    "name": "年度杰出品牌",
+    "focus": "成熟品牌经营与长期竞争力",
+    "weights": {
+      "业务经营表现": 25,
+      "竞争壁垒构建": 25,
+      "品牌资产沉淀": 25,
+      "长期发展潜力": 25
+    },
+    "printed_page": 25,
+    "pdf_page": 29,
+    "mode": "direct"
+  },
+  {
+    "id": "brand_image-02",
+    "group": "brand_image",
+    "name": "年度新锐品牌",
+    "focus": "成长品牌商业模式验证",
+    "weights": {
+      "品牌定位与心智突破": 25,
+      "业务成长表现": 25,
+      "产品与体验创新": 25,
+      "商业模式可持续性": 25
+    },
+    "printed_page": 25,
+    "pdf_page": 29,
+    "mode": "direct"
+  },
+  {
+    "id": "brand_image-03",
+    "group": "brand_image",
+    "name": "年度ESG品牌",
+    "focus": "责任实践和商业价值融合",
+    "weights": {
+      "E·环境责任": 25,
+      "S·社会贡献": 25,
+      "G·公司治理": 25,
+      "ESG与商业价值融合": 25
+    },
+    "printed_page": 25,
+    "pdf_page": 29,
+    "mode": "direct"
+  },
+  {
+    "id": "brand_product-01",
+    "group": "brand_product",
+    "name": "年度产品创新大奖",
+    "focus": "产品差异化及营销落地",
+    "weights": {
+      "产品差异优势": 25,
+      "营销核心策略": 35,
+      "商业市场成果": 25,
+      "行业影响价值": 15
+    },
+    "printed_page": 25,
+    "pdf_page": 29,
+    "mode": "direct"
+  },
+  {
+    "id": "brand_person-01",
+    "group": "brand_person",
+    "name": "年度杰出品牌人物",
+    "focus": "品牌方总经理/CXO等战略领导者",
+    "weights": {
+      "年度业绩描述": 40,
+      "年度行业发声": 15,
+      "年度公益参与": 20,
+      "年度获奖明细": 15,
+      "社会兼职情况": 10
+    },
+    "printed_page": 26,
+    "pdf_page": 30,
+    "mode": "direct"
+  },
+  {
+    "id": "brand_person-02",
+    "group": "brand_person",
+    "name": "年度新锐品牌人物",
+    "focus": "品牌方品牌总监及执行中坚",
+    "weights": {
+      "年度业绩描述": 40,
+      "年度行业发声": 15,
+      "年度公益参与": 20,
+      "年度获奖明细": 15,
+      "社会兼职情况": 10
+    },
+    "printed_page": 26,
+    "pdf_page": 30,
+    "mode": "direct"
+  },
+  {
+    "id": "nomination_company-01",
+    "group": "nomination_company",
+    "name": "年度综合服务商",
+    "focus": "全案综合能力",
+    "weights": null,
+    "printed_page": 27,
+    "pdf_page": 31,
+    "mode": "nomination"
+  },
+  {
+    "id": "nomination_company-02",
+    "group": "nomination_company",
+    "name": "年度营销技术服务商",
+    "focus": "营销技术",
+    "weights": null,
+    "printed_page": 27,
+    "pdf_page": 31,
+    "mode": "nomination"
+  },
+  {
+    "id": "nomination_company-03",
+    "group": "nomination_company",
+    "name": "年度创意服务商",
+    "focus": "创意作品",
+    "weights": null,
+    "printed_page": 27,
+    "pdf_page": 31,
+    "mode": "nomination"
+  },
+  {
+    "id": "nomination_company-04",
+    "group": "nomination_company",
+    "name": "年度内容营销服务商",
+    "focus": "内容生产",
+    "weights": null,
+    "printed_page": 27,
+    "pdf_page": 31,
+    "mode": "nomination"
+  },
+  {
+    "id": "nomination_company-05",
+    "group": "nomination_company",
+    "name": "年度电商服务商",
+    "focus": "电商经营",
+    "weights": null,
+    "printed_page": 27,
+    "pdf_page": 31,
+    "mode": "nomination"
+  },
+  {
+    "id": "nomination_company-06",
+    "group": "nomination_company",
+    "name": "年度出海服务商",
+    "focus": "海外营销",
+    "weights": null,
+    "printed_page": 27,
+    "pdf_page": 31,
+    "mode": "nomination"
+  },
+  {
+    "id": "nomination_company-07",
+    "group": "nomination_company",
+    "name": "年度数字平台",
+    "focus": "数字平台传播",
+    "weights": null,
+    "printed_page": 27,
+    "pdf_page": 31,
+    "mode": "nomination"
+  },
+  {
+    "id": "nomination_person-01",
+    "group": "nomination_person",
+    "name": "年度杰出人物",
+    "focus": "依据实际行业贡献与组委会提名",
+    "weights": null,
+    "printed_page": 28,
+    "pdf_page": 32,
+    "mode": "nomination"
+  },
+  {
+    "id": "nomination_person-02",
+    "group": "nomination_person",
+    "name": "年度市场贡献人物",
+    "focus": "依据实际行业贡献与组委会提名",
+    "weights": null,
+    "printed_page": 28,
+    "pdf_page": 32,
+    "mode": "nomination"
+  },
+  {
+    "id": "nomination_person-03",
+    "group": "nomination_person",
+    "name": "年度新锐人物",
+    "focus": "依据实际行业贡献与组委会提名",
+    "weights": null,
+    "printed_page": 28,
+    "pdf_page": 32,
+    "mode": "nomination"
+  },
+  {
+    "id": "nomination_person-04",
+    "group": "nomination_person",
+    "name": "年度创意人物",
+    "focus": "依据实际行业贡献与组委会提名",
+    "weights": null,
+    "printed_page": 28,
+    "pdf_page": 32,
+    "mode": "nomination"
+  },
+  {
+    "id": "nomination_team-01",
+    "group": "nomination_team",
+    "name": "年度金牌团队",
+    "focus": "团队获奖作品及年度贡献",
+    "weights": null,
+    "printed_page": 28,
+    "pdf_page": 32,
+    "mode": "nomination"
+  }
+]

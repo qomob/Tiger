@@ -1,0 +1,87 @@
+{
+  "project_id": "SYNTHETIC-001",
+  "edition": 18,
+  "start": "2026-04-01",
+  "end": "2026-05-01",
+  "categories": [
+    "special-18"
+  ],
+  "human_checks": {
+    "commercial_entity": true,
+    "rights": true,
+    "public_permission": true,
+    "stamped_confirmation": true,
+    "legal_ethics": true,
+    "prior_award_compliance": true,
+    "category_fit": true,
+    "project_identity": true,
+    "all_media_reviewed": true,
+    "claim_coverage": true,
+    "source_original_review": true,
+    "evidence_sufficiency": true,
+    "differentiation": true,
+    "budget_acceptance": true,
+    "anonymity": true
+  },
+  "company_case_count": 1,
+  "facts": [
+    {
+      "id": "FACT-001",
+      "claim": "项目针对会员复购率下降开展分层运营。",
+      "quote": "项目针对会员复购率下降开展分层运营。",
+      "source": "sample-evidence.txt",
+      "sha256": "f606e0aae960f5cd2c75a1a5f3de4a5c08d4fc61d0aa3eb95fb2d561220c1af7",
+      "conflict": false,
+      "public": true,
+      "attribution": "descriptive",
+      "original_reviewed": true
+    },
+    {
+      "id": "FACT-002",
+      "claim": "活动期会员复购率为25%，去年同期为20%。",
+      "quote": "活动期会员复购率为25%，去年同期为20%。",
+      "source": "sample-evidence.txt",
+      "sha256": "f606e0aae960f5cd2c75a1a5f3de4a5c08d4fc61d0aa3eb95fb2d561220c1af7",
+      "conflict": false,
+      "public": true,
+      "attribution": "descriptive",
+      "original_reviewed": true
+    },
+    {
+      "id": "FACT-003",
+      "claim": "运营团队按购买周期设计三种提醒内容，并分组测试。",
+      "quote": "运营团队按购买周期设计三种提醒内容，并分组测试。",
+      "source": "sample-evidence.txt",
+      "sha256": "f606e0aae960f5cd2c75a1a5f3de4a5c08d4fc61d0aa3eb95fb2d561220c1af7",
+      "conflict": false,
+      "public": true,
+      "attribution": "descriptive",
+      "original_reviewed": true
+    }
+  ],
+  "drafts": {
+    "special-18": [
+      {
+        "fact_id": "FACT-001",
+        "text": "项目针对会员复购率下降开展分层运营。"
+      },
+      {
+        "fact_id": "FACT-002",
+        "text": "活动期会员复购率为25%，去年同期为20%。"
+      },
+      {
+        "fact_id": "FACT-003",
+        "text": "运营团队按购买周期设计三种提醒内容，并分组测试。"
+      }
+    ]
+  },
+  "scores": {
+    "special-18": [
+      9,
+      9,
+      9,
+      9
+    ]
+  },
+  "media": []
+}

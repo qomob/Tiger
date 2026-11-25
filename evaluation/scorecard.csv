@@ -1,0 +1,1 @@
+blind_run_id,task_id,reviewer_id,eligible_gold,eligible_pred,allowed_categories,selected_categories,verified_claims,all_claims,critical_errors,decision_gold,decision_pred,marketing_quality_1_5,creative_quality_1_5,commercial_quality_1_5,evidence_quality_1_5,deliverable_success,elapsed_seconds,tokens,notes

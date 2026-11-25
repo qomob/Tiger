@@ -1,0 +1,23 @@
+name: Python regression tests
+on:
+  push:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  regression:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ['3.10', '3.12', '3.13']
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+      - run: sudo apt-get update && sudo apt-get install -y openssl ffmpeg
+      - run: |
+          set -o pipefail
+          python -m unittest discover -s tests -v 2>&1 | tee test-output.log
+          if grep -E 'skipped=|\.\.\. skipped ' test-output.log; then exit 1; fi
+      - run: rm -f test-output.log

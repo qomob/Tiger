@@ -1,0 +1,17 @@
+{
+  "status": "INTERNAL_CHECKS_PASSED",
+  "official_submission": "UNVERIFIED_MANUAL_CONFIRMATION_REQUIRED",
+  "verified_text_bindings": [
+    "FACT-001",
+    "FACT-002",
+    "FACT-003"
+  ],
+  "scores": {
+    "special-18": {
+      "score": 90.0,
+      "value": "PRIORITY"
+    }
+  },
+  "issues": [],
+  "limitations": "Text bindings only; human assertions and declared media metadata not independently verified; no official readiness or award probability."
+}

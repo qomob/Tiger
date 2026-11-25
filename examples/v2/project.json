@@ -1,0 +1,147 @@
+{
+  "schema_version": 2,
+  "base": {
+    "project_id": "SYNTHETIC-001",
+    "edition": 18,
+    "start": "2026-04-01",
+    "end": "2026-05-01",
+    "categories": [
+      "special-18"
+    ],
+    "human_checks": {},
+    "company_case_count": 1,
+    "facts": [
+      {
+        "id": "FACT-001",
+        "claim": "项目针对会员复购率下降开展分层运营。",
+        "quote": "项目针对会员复购率下降开展分层运营。",
+        "source": "sample-evidence.txt",
+        "sha256": "98aa20dc7144646d66c49824863c2e86f65be52255837f7d5f3d500968b71e98",
+        "conflict": false,
+        "public": true,
+        "attribution": "descriptive",
+        "original_reviewed": true
+      },
+      {
+        "id": "FACT-002",
+        "claim": "活动期会员复购率为25%，去年同期为20%。",
+        "quote": "活动期会员复购率为25%，去年同期为20%。",
+        "source": "sample-evidence.txt",
+        "sha256": "98aa20dc7144646d66c49824863c2e86f65be52255837f7d5f3d500968b71e98",
+        "conflict": false,
+        "public": true,
+        "attribution": "descriptive",
+        "original_reviewed": true
+      },
+      {
+        "id": "FACT-003",
+        "claim": "运营团队按购买周期设计三种提醒内容，并分组测试。",
+        "quote": "运营团队按购买周期设计三种提醒内容，并分组测试。",
+        "source": "sample-evidence.txt",
+        "sha256": "98aa20dc7144646d66c49824863c2e86f65be52255837f7d5f3d500968b71e98",
+        "conflict": false,
+        "public": true,
+        "attribution": "descriptive",
+        "original_reviewed": true
+      },
+      {
+        "id": "FACT-004",
+        "claim": "对照组未显示稳定的复购提升。",
+        "quote": "对照组未显示稳定的复购提升。",
+        "source": "sample-evidence.txt",
+        "sha256": "98aa20dc7144646d66c49824863c2e86f65be52255837f7d5f3d500968b71e98",
+        "conflict": false,
+        "public": true,
+        "attribution": "descriptive",
+        "original_reviewed": true
+      }
+    ],
+    "drafts": {
+      "special-18": [
+        {
+          "fact_id": "FACT-001",
+          "text": "项目针对会员复购率下降开展分层运营。"
+        },
+        {
+          "fact_id": "FACT-002",
+          "text": "活动期会员复购率为25%，去年同期为20%。"
+        },
+        {
+          "fact_id": "FACT-003",
+          "text": "运营团队按购买周期设计三种提醒内容，并分组测试。"
+        }
+      ]
+    },
+    "scores": {},
+    "media": []
+  },
+  "author_id": "example-author",
+  "reviewer_id": "pending-independent-review",
+  "source_records": {
+    "sample-evidence.txt": {
+      "project_id": "SYNTHETIC-001",
+      "owner": "Synthetic client for tests only",
+      "type": "synthetic",
+      "original_path": "sample-evidence.txt",
+      "original_sha256": "98aa20dc7144646d66c49824863c2e86f65be52255837f7d5f3d500968b71e98",
+      "review_status": "pending"
+    }
+  },
+  "fact_meta": {
+    "FACT-001": {
+      "project_id": "SYNTHETIC-001",
+      "line": 2,
+      "kind": "context",
+      "metric": null,
+      "locator": "line 2",
+      "causal_status": "descriptive"
+    },
+    "FACT-002": {
+      "project_id": "SYNTHETIC-001",
+      "line": 3,
+      "kind": "metric",
+      "metric": {
+        "name": "复购率",
+        "unit": "%",
+        "scope": "会员活动组",
+        "start": "2026-04-01",
+        "end": "2026-05-01",
+        "comparison": "本期",
+        "value": 25,
+        "definition": "复购会员占活动组会员比率"
+      },
+      "locator": "line 3",
+      "causal_status": "descriptive"
+    },
+    "FACT-003": {
+      "project_id": "SYNTHETIC-001",
+      "line": 4,
+      "kind": "mechanism",
+      "metric": null,
+      "locator": "line 4",
+      "causal_status": "descriptive"
+    },
+    "FACT-004": {
+      "project_id": "SYNTHETIC-001",
+      "line": 5,
+      "kind": "counterevidence",
+      "metric": null,
+      "locator": "line 5",
+      "causal_status": "descriptive"
+    }
+  },
+  "assessments": {},
+  "final_files": {
+    "special-18": {
+      "path": "final.txt",
+      "sha256": "fd14a18c45970103b94274a47f1045d06cefb2c33583158cc2f2ff0536720091"
+    }
+  },
+  "media_files": [],
+  "portfolio": [
+    {
+      "project_id": "SYNTHETIC-001",
+      "category_id": "special-18"
+    }
+  ]
+}

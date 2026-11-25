@@ -1,0 +1,83 @@
+{
+  "edition": 18,
+  "season": "2026-2027",
+  "source": {
+    "name": "第18届虎啸奖（2026-2027）参赛手册.pdf",
+    "sha256": "9c74a1033e6ebb8802812d5a8e2e87477edc55812cb5bd742396ef64da3b78e9",
+    "page_offset": 4,
+    "status": "user_supplied_handbook",
+    "website_status": "homepage_timeout_2026-11-25; submission_login_accessible; authenticated_fields_unverified",
+    "live_fields_verified": false
+  },
+  "dates": {
+    "work_start": "2026-03-20",
+    "work_end": "2027-03-19",
+    "submission_start": "2026-11-28",
+    "submission_end": "2027-03-19",
+    "online_review": [
+      "2027-03-26",
+      "2027-04-02"
+    ],
+    "final_review": [
+      "2027-04-09",
+      "2027-04-10"
+    ],
+    "defense": [
+      "2027-04-22",
+      "2027-04-23"
+    ],
+    "ceremony": [
+      "2027-06-03",
+      "2027-06-05"
+    ]
+  },
+  "limits": {
+    "general": 1,
+    "special": 2,
+    "creative": 2,
+    "commerce": 2,
+    "technology": 1,
+    "brand_image": 1,
+    "brand_product": 1,
+    "brand_person": 1
+  },
+  "fee_cny": {
+    "major": 8600,
+    "excellent": 3800,
+    "technology": 8600,
+    "brand": 8600,
+    "brand_person": 0,
+    "nomination": 0,
+    "extra_cup": 3800,
+    "extra_certificate": 360
+  },
+  "media": {
+    "jpg_soft_limit": 12,
+    "av_limit": 5,
+    "local_video": "mp4",
+    "local_audio": "mp3",
+    "size_limit_decimal_bytes_conservative": 100000000
+  },
+  "internal_thresholds": {
+    "priority": 85,
+    "conditional": 70
+  },
+  "source_pages": {
+    "dates": 1,
+    "qualification": 8,
+    "fees": 8,
+    "submission_media_rights": 9,
+    "faq": [
+      10,
+      11
+    ],
+    "categories": [
+      12,
+      28
+    ],
+    "judging": [
+      29,
+      30
+    ]
+  }
+}
