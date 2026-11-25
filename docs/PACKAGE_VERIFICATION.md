@@ -10,4 +10,4 @@
 
 基线：Tiger-Roar-Awards-Advisor-GitHub-v2.0.0-RC1.zip；原清单逐项校验一致。新增仓库封面、正式 Logo、品牌素材说明及本轮测试输出，更新中英文 README、发布及权利说明；SKILL.md、业务脚本、测试代码、规则知识库、工作流、示例与评估方案均与基线字节一致。
 
-本轮实际执行 Python 3.13.5 / OpenSSL 3.5.5 / ffprobe 7.1.5 环境下 76 项 unittest，全部通过、无跳过。详见 [原始输出](package-regression-output.txt)。Markdown 相对链接检查通过。原生成海报顶部含 Open Source 标签，尚未选择许可证，故 README 使用裁切后的封面及单独的原始 Logo。未推送、未远端运行 CI、未验证真实业务能力或素材公开许可。
+本轮实际执行 Python 3.13.5 / OpenSSL 3.5.5 / ffprobe 7.1.5 环境下 76 项 unittest，全部通过、无跳过。详见 [原始输出](../tests/test-results.txt)。Markdown 相对链接检查通过。原生成海报顶部含 Open Source 标签，尚未选择许可证，故 README 使用裁切后的封面及单独的原始 Logo。未推送、未远端运行 CI、未验证真实业务能力或素材公开许可。
